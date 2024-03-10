@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weijie Wang
-- 💻 Currently, I'm honing my coding skills and exploring the fascinating world of data science
+- 💻 Currently, I'm honing my coding skills and exploring the fascinating world of data
 - 🚀 Check out my latest projects and let's create something amazing together! 
 
 <!---
