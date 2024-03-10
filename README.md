@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Weijie Wang
 - 💻 Currently, I'm honing my coding skills and exploring the fascinating world of data science
-- 🚀 Let's connect, collaborate, and code our way to new heights!
+- 🚀 Check out my latest projects and let's create something amazing together! 
 
 <!---
 iam-weijie/iam-weijie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
