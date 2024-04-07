@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Weijie  
+# 👋 Hi, my name is Weijie!
 
 📕 I study at McGill University
 
