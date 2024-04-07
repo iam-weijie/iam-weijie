@@ -6,4 +6,4 @@
 
 🚀 Check out my latest projects and let's create something amazing together! 
 
-How to reach me: [Email](wang.weijie0110@gmail.com)
+📧 Reach me by [Email](wang.weijie0110@gmail.com)
