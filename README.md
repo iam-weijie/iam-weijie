@@ -9,5 +9,5 @@
 📧 Reach me by Email: [wang.weijie0110@gmail.com](wang.weijie0110@gmail.com)
 
 <div>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
+  <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
 </div>
