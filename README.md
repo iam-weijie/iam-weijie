@@ -1,5 +1,9 @@
 # 👋 Hi, my name is Weijie!
 
+<div>
+  <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
+</div>
+
 📕 I study at McGill University
 
 💻 Currently, I'm honing my coding skills and exploring the fascinating world of data
@@ -8,6 +12,3 @@
 
 📧 Reach me by Email: [wang.weijie0110@gmail.com](wang.weijie0110@gmail.com)
 
-<div>
-  <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
-</div>
