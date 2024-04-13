@@ -10,7 +10,7 @@
 
 🚀 Check out my latest projects and let's create something amazing together! 
 
-📧 Reach me by Email: [wang.weijie0110@gmail.com](wang.weijie0110@gmail.com)
+📧 Reach me by Email: [wang.weijie0110@gmail.com](mailto:wang.weijie0110@gmail.com)
 
 #
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
