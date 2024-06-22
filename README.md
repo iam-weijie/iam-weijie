@@ -11,7 +11,7 @@
 
 #
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
-[![My Skills](https://skillicons.dev/icons?i=py,java,r,js,html,css,c,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,r,js,react,html,css,c,bash,aws)](https://skillicons.dev)
 
 <div>
   <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
