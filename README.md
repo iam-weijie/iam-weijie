@@ -3,7 +3,7 @@
 
 📕 I study at McGill University
 
-💻 Currently, I'm honing my coding skills and exploring the fascinating world of web dev and AI
+💻 Currently, I'm honing my coding skills and exploring the fascinating world of Web Dev and AI
 
 🚀 Check out my latest projects and let's create something amazing together! 
 
