@@ -4,7 +4,7 @@
 
 Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
-<br><br>
+<br>
 
 📍 Stats + CS @ McGill University
 
@@ -26,7 +26,7 @@ Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
 - McGill Dobson Centre for Entrepreneurship
 
-### my toolbox 🧰
+### my toolbox:
 
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
 
