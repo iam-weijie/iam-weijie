@@ -2,7 +2,9 @@
 
 <!-- ^This is one of my projects -->
 
-## Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
+Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
+
+---
 
 📍 Stats + CS @ McGill University
 
