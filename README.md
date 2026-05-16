@@ -14,11 +14,11 @@
 
 ### previously:
 
-- League of Innovators alumnus
+- League of Innovators Founder Community
 
-- Beta University alumnus
+- Beta University Accelerator alumnus
 
-- McGill Engine Centre TechAccel
+- McGill Engine Centre TechAccel Program
 
 - McGill Dobson Centre for Entrepreneurship
 
