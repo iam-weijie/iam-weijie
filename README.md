@@ -8,6 +8,22 @@ Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
 🚀 Building things on the internet, sometimes people notice (20M+ views on [Instagram](https://www.instagram.com/weijie.404/))
 
+### currently:
+
+- Intern at EXFO
+
+- Designing AI agents, products, and systems
+
+### previously:
+
+- League of Innovators alumnus
+
+- Beta University alumnus
+
+- McGill Engine Centre TechAccel
+
+- McGill Dobson Centre for Entrepreneurship
+
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,java,js,ts,html,css,nextjs,aws,apple)](https://skillicons.dev)
