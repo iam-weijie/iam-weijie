@@ -4,7 +4,7 @@
 
 Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
----
+<br><br>
 
 📍 Stats + CS @ McGill University
 
