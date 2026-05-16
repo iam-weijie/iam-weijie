@@ -2,8 +2,6 @@
 
 <!-- ^This is one of my projects -->
 
-Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
-
 📍 Stats + CS @ McGill University
 
 🚀 Building things on the internet, sometimes people notice (20M+ views on [Instagram](https://www.instagram.com/weijie.404/))
