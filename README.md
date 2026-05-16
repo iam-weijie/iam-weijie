@@ -2,7 +2,7 @@
 
 <!-- ^This is one of my projects -->
 
-Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
+## Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
 📍 Stats + CS @ McGill University
 
@@ -23,6 +23,8 @@ Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 - McGill Engine Centre TechAccel
 
 - McGill Dobson Centre for Entrepreneurship
+
+### my toolbox 🧰
 
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
 
