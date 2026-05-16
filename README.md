@@ -1,14 +1,15 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, my name is Weijie!
+# hey, i'm weijie <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+
 <!-- ^This is one of my projects -->
 
-📕 I study at McGill University
+Dreamer 🧠 Builder 🛠️ Entrepreneur 💼
 
-💻 Currently, I'm honing my coding skills and exploring the fascinating world of Web Dev and AI
+📍 Stats + CS @ McGill University
 
-🚀 Check out my latest projects and let's create something amazing together! 
+🚀 Building things on the internet, sometimes people notice (20M+ views on [Instagram](https://www.instagram.com/weijie.404/))
 
-#
 <!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
+
 [![My Skills](https://skillicons.dev/icons?i=py,r,java,js,ts,html,css,nextjs,aws,apple)](https://skillicons.dev)
 
 <div>
